@@ -42,6 +42,7 @@ _________________________________________________________________
 dense_4 (Dense)              (None, 2)                 130
 
 =================================================================
+
 Total params: 760,994
 Trainable params: 760,994
 Non-trainable params: 0
@@ -49,7 +50,9 @@ _________________________________________________________________
 
 
 -> Epochs = 200
+
 -> Batch Size = 256
+
 -> Activations used were 'relu' and 'sigmoid'(for last dense layer)
 
-#Results : 99.03498 %
+# Results : 99.03498 %
