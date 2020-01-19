@@ -55,4 +55,6 @@ _________________________________________________________________
 
 -> Activations used were 'relu' and 'sigmoid'(for last dense layer)
 
-# Results : 99.03498 %
+# Results :
+
+-> 99.03498 % accuracy
