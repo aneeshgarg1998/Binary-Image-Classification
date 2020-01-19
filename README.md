@@ -1,7 +1,7 @@
 # Binary-Image-Classification
 Use of "tensorflow" to apply CNN (Convolutional Neural Network) for binary image classification
 
-This was done as part of Neural Networks Course (BITS Goa), Fall 2019. Scoring was done on Kaggle 
+This was done as part of Neural Networks Course (BITS Goa), Fall 2019.
 (https://www.kaggle.com/c/nnfl-assignment-i).
 
 # Task: Binary image classification
